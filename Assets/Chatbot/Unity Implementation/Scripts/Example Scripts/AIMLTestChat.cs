@@ -2,6 +2,7 @@
 using UnityEngine;
 using System.Collections;
 using AIMLbot.Utils;
+using System.Text;
 
 /// <summary>
 /// Despite the progress of Chatbot, the basic functional capability of Program #
@@ -94,6 +95,8 @@ public class AIMLTestChat : MonoBehaviour {
 	}
 	public string UserSend(string inputText) {
 		request.rawInput = inputText;
+
+		Debug.Log(request.rawInput.ToString());
 		request.StartedOn = DateTime.Now;
 		result = bot.Chat(request);
 		Output_Text = result.Output;

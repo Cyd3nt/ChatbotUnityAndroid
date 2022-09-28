@@ -13,7 +13,7 @@ public class ChatUI : MonoBehaviour
     //[SerializeField] TextMeshProUGUI userInput;
     [SerializeField] InputField userInput;
     [SerializeField] Text botText;
-
+    [SerializeField] ScriptableViToEn vte;
     string botAnswer;
 
     private void Awake()
@@ -47,8 +47,16 @@ public class ChatUI : MonoBehaviour
     public void __UserSendMsg() {
         string msg = userInput.text;
         Debug.Log("msg:" + msg);
-        msg = "MẸ ĐẺ";
         userInput.text = "";
+        // vte.viToEn
+        foreach (var item in vte.viToEn)
+        {
+            if (item.IsVietnamese(msg)) {
+                Debug.Log("input is vietnamese:" + msg);
+                msg = item.GetEnglishKey();
+            }
+        }
+
         botAnswer = aimlChat.UserSend(msg);
         BotTextSet(botAnswer);
     }

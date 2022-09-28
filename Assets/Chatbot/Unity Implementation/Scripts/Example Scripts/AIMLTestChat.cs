@@ -63,6 +63,7 @@ public class AIMLTestChat : MonoBehaviour {
 	}
 
 	void OnGUI () {
+		/*
 		// Enable Word warp
 		GUI.skin.label.wordWrap = true;
 		// Make a background box
@@ -88,5 +89,14 @@ public class AIMLTestChat : MonoBehaviour {
 			// Gather Variables
 			// bot.jscript_engine.GetGlobalValue<string>("abc");
 		}
+
+		*/
+	}
+	public string UserSend(string inputText) {
+		request.rawInput = inputText;
+		request.StartedOn = DateTime.Now;
+		result = bot.Chat(request);
+		Output_Text = result.Output;
+		return Output_Text;
 	}
 }

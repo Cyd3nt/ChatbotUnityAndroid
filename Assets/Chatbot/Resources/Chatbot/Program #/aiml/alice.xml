@@ -14,7 +14,7 @@
 <!-- Last modified 10/5/2011 -->
 <!-- -->
 <category>
-	<pattern>_ ALICE</pattern>
+	<pattern>_ TIMI</pattern>
 	<template><think><set name="savedtopic"><get name="topic" /></set><set name="topic">ENDS WITH ALICE</set><set name="matched">false</set><set name="response"><srai><star /> BOTNAME</srai></set></think><condition name="matched"><li value="true"><get name="response" /></li>
 			<li><srai><star /></srai></li></condition><think><set name="topic"><get name="savedtopic" /></set></think></template>
 </category><topic name="ENDS WITH ALICE">

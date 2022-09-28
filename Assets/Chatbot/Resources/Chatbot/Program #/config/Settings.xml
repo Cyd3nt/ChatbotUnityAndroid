@@ -15,21 +15,21 @@
   <item name="notacceptinguserinputmessage" value="This bot is currently set to not accept user input."/>
   <item name="stripperregex" value="[^0-9a-zA-Z]"/>
   <item name="botversion" value="Unknown"/>
-  <item name="botname" value="Alice"/>
-  <item name="botmaster" value="Unknown"/>
-  <item name="botauthor" value="Andre Sandkühler"/>
-  <item name="botlocation" value="Unknown"/>
+  <item name="botname" value="Timi"/>
+  <item name="botmaster" value="Tuấn Anh"/>
+  <item name="botauthor" value="Tuấn Anh"/>
+  <item name="botlocation" value="Vietnam"/>
   <item name="botgender" value="-1"/>
-  <item name="botbirthday" value="2006/10/08"/>
-  <item name="botbirthplace" value="London"/>
-  <item name="website" value="http://www.chatbotunityasset.com/"/>
-  <item name="adminemail" value=""/>
+  <item name="botbirthday" value="2022/09/09"/>
+  <item name="botbirthplace" value="Hà Nội"/>
+  <item name="website" value="http://ftech.ai"/>
+  <item name="adminemail" value="anhnt@ftech.ai"/>
   <item name="islogging" value="false"/>
   <item name="willcallhome" value="false"/>
   <item name="timeout" value="2000"/>
-  <item name="timeoutmessage" value="Hm.. Sorry, I lost the Threat."/>
+  <item name="timeoutmessage" value="Xin lỗi, Timi lơ đễnh một chút."/>
   <item name="culture" value="en-US"/>
-  <item name="ip" value="(c) 2015 www.chatbotunityasset.com"/>
+  <item name="ip" value="(c) 2022 ftech.ai"/>
   <item name="botgenus" value="autonomous computer program"/>
   <item name="botspecies" value="conversational autonomous help program"/>
   <item name="botorder" value="artificial intelligence"/>

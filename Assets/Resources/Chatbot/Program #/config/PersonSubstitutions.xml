@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <item name=" I WAS " value=" he or she was " />
-  <item name=" I AM " value=" he or she is " />
-  <item name=" I " value=" he or she " />
-  <item name=" HE WAS " value=" I was " />
-  <item name=" SHE WAS " value=" I was " />
-  <item name=" ME " value=" him or her " />
-  <item name=" MY " value=" his or her " />
-  <item name=" MYSELF " value=" him or herself " />
+  <item name=" I WAS " value=" anh ta hoặc cô ta là " />
+  <item name=" I AM " value=" anh ta hoặc cô ta là  " />
+  <item name=" I " value=" anh ta hoặc cô ta " />
+  <item name=" HE WAS " value=" Timi là " />
+  <item name=" SHE WAS " value=" Timi là " />
+  <item name=" ME " value=" anh ta hoặc cô ta " />
+  <item name=" MY " value=" của anh ta hoặc của cô ta " />
+  <item name=" MYSELF " value=" của anh ta hoặc của cô ta " />
 </root>

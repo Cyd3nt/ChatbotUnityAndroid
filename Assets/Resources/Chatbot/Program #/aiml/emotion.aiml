@@ -23,7 +23,7 @@
 </category>
 <category>
 	<pattern>YOU ARE JEALOUS</pattern>
-	<template>Do you think so? Maybe...<script>function main() {emotion = "embarrassing";return"";}</script></template>
+	<template>Bạn nghĩ vậy sao? Có thể vậy đấy..<script>function main() {emotion = "embarrassing";return"";}</script></template>
 </category>
 <category>
 	<pattern>YOU ARE NEVER SAD</pattern>

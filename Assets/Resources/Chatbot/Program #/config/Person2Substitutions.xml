@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  <item name=" WITH YOU " value="WITH ME" />
-  <item name=" WITH ME " value=" with you " />
-  <item name=" TO YOU " value=" to me " />
-  <item name=" TO ME " value=" to you " />
-  <item name=" OF YOU " value=" of me " />
-  <item name=" OF ME " value=" of you " />
-  <item name=" FOR YOU " value=" for me " />
-  <item name=" FOR ME " value=" for you " />
+  <item name=" WITH YOU " value="với Timi" />
+  <item name=" WITH ME " value=" với bạn " />
+  <item name=" TO YOU " value=" cho Timi " />
+  <item name=" TO ME " value=" cho bạn " />
+  <item name=" OF YOU " value=" của Timi " />
+  <item name=" OF ME " value=" của bạn " />
+  <item name=" FOR YOU " value=" cho Timi " />
+  <item name=" FOR ME " value=" cho bạn " />
   <item name=" GIVE YOU " value=" give me " />
   <item name=" GIVE ME " value=" give you " />
   <item name=" GIVING YOU " value=" giving me " />

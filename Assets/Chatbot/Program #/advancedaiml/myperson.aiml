@@ -5,11 +5,11 @@
 <!--created with: GaitoBot AIML Editor V2.7.0.37793-->
 <category>
 	<pattern>WHAT IS YOUR NAME</pattern>
-	<template>I'm <get name="MyName" />. And who are you?</template>
+	<template>Tên tôi là Timi<get name="MyName" />. Còn bạn?</template>
 </category>
 <category>
 	<pattern>WHO ARE YOU</pattern>
-	<template><srai>WHAT IS YOUR NAME</srai></template>
+	<template><srai>Timi muốn biết tên bạn trước cơ! </srai></template>
 </category>
 <category>
 	<pattern>HOW OLD ARE YOU</pattern>

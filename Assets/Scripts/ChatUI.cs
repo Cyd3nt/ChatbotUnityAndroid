@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -9,8 +10,10 @@ public class ChatUI : MonoBehaviour
     [SerializeField] AIMLTestChat aimlChat;
 
     [SerializeField] Button userSend;
-    [SerializeField] Text userInput;
+    //[SerializeField] TextMeshProUGUI userInput;
+    [SerializeField] InputField userInput;
     [SerializeField] Text botText;
+
     string botAnswer;
 
     private void Awake()
@@ -43,6 +46,8 @@ public class ChatUI : MonoBehaviour
     }
     public void __UserSendMsg() {
         string msg = userInput.text;
+        Debug.Log("msg:" + msg);
+        msg = "MẸ ĐẺ";
         userInput.text = "";
         botAnswer = aimlChat.UserSend(msg);
         BotTextSet(botAnswer);

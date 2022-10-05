@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fda34bbde291a54abb9c06148394d1d, type: 3}
+  m_Name: STATUS
+  m_EditorClassIdentifier: 
+  engKey:
+  - STATUS
+  vietKey:
+  - "Timi c\xF3 ng\u01B0\u1EDDi y\xEAu ch\u01B0a"
+  - "Timi th\u01B0\u01A1ng ai ch\u01B0a"
+  - "Timi \u0111\u1ED9c th\xE2n"
+  - "Timi y\xEAu ai ch\u01B0a"
+  - "tr\u1EA1ng th\xE1i y\xEAu \u0111\u01B0\u01A1ng c\u1EE7a Timi"
+  - "Timi ph\u1EA3i l\xF2ng ai ch\u01B0a"
+  - "b\u1EA1n c\xF3 ng\u01B0\u1EDDi y\xEAu ch\u01B0a"
+  - "b\u1EA1n th\u01B0\u01A1ng ai ch\u01B0a"
+  - "b\u1EA1n \u0111\u1ED9c th\xE2n"
+  - "b\u1EA1n y\xEAu ai ch\u01B0a"
+  - "tr\u1EA1ng th\xE1i y\xEAu \u0111\u01B0\u01A1ng c\u1EE7a b\u1EA1n"
+  - "b\u1EA1n ph\u1EA3i l\xF2ng ai ch\u01B0a"
+  attitude: 3

@@ -10,7 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8dd6d774ee861424fbcd98afee96f928, type: 3}
-  m_Name: InputVnToEn
+  m_Name: ScriptableViToEn
   m_EditorClassIdentifier: 
   viToEn:
+  - {fileID: 11400000, guid: d3d8f592b23d7a243b30986222e922a0, type: 2}
+  - {fileID: 11400000, guid: 2a621ab29bffa374296b562a098fff7b, type: 2}
+  - {fileID: 11400000, guid: 1374de2a81847d049a747793233fc253, type: 2}
+  - {fileID: 11400000, guid: 66679f69ca29856448a0078cf4a87c55, type: 2}
   - {fileID: 11400000, guid: ec89983ae3ebaa84bb5b5c56c8c630f6, type: 2}
+  - {fileID: 11400000, guid: 9afa94c3f0505da4fbc02da1338c6165, type: 2}
+  - {fileID: 11400000, guid: 0aeb458eb6e59f344ac98058002ce39a, type: 2}
+  - {fileID: 11400000, guid: 52733feb68bda5d44bd54835fb30c793, type: 2}
+  - {fileID: 11400000, guid: 917abb0f80e4e894bbd9630ee6c657b7, type: 2}
+  - {fileID: 11400000, guid: c46b05f6b3cc3ea45a2ea8a71aaf04f6, type: 2}

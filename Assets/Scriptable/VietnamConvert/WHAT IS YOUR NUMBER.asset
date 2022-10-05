@@ -10,17 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fda34bbde291a54abb9c06148394d1d, type: 3}
-  m_Name: MOTHER
+  m_Name: WHAT IS YOUR NUMBER
   m_EditorClassIdentifier: 
   engKey:
-  - TIMI MOTHER
+  - WHAT IS YOUR NUMBER
   vietKey:
-  - "m\u1EB9 \u0111\u1EBB c\u1EE7a Timi"
-  - "m\u1EB9 \u0111\u1EBB Timi"
-  - "m\u1EB9 Timi"
-  - "m\u1EB9 c\u1EE7a Timi"
-  - "m\u1EB9 \u0111\u1EBB c\u1EE7a b\u1EA1n"
-  - "m\u1EB9 \u0111\u1EBB b\u1EA1n"
-  - "m\u1EB9 b\u1EA1n"
-  - "m\u1EB9 c\u1EE7a b\u1EA1n"
-  attitude: 1
+  - "li\xEAn l\u1EA1c v\u1EDBi b\u1EA1n"
+  - "li\xEAn l\u1EA1c v\u1EDBi Timi"
+  - "cho xin s\u1ED1"
+  - cho xin email
+  attitude: 0

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fda34bbde291a54abb9c06148394d1d, type: 3}
+  m_Name: FEELING TO USER LOVE
+  m_EditorClassIdentifier: 
+  engKey:
+  - FEELING TO USER LOVE
+  vietKey:
+  - "t\xF4i y\xEAu b\u1EA1n"
+  - "m\xECnh y\xEAu b\u1EA1n"
+  - "t\xF4i th\xEDch b\u1EA1n"
+  - "m\xECnh th\xEDch b\u1EA1n"
+  - "t\xF4i y\xEAu Timi"
+  - "m\xECnh y\xEAu Timi"
+  - "t\xF4i th\xEDch Timi"
+  - "m\xECnh th\xEDch Timi"
+  - "t\xF4i c\xF3 c\u1EA3m gi\xE1c v\u1EDBi b\u1EA1n"
+  - "t\xF4i c\xF3 c\u1EA3m gi\xE1c v\u1EDBi Timi"
+  - "y\xEAu th\u1EA7m Timi"
+  - I love you
+  - I love Timi
+  attitude: 1

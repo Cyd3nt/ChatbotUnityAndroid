@@ -1,0 +1,127 @@
+==================
+TIMI MOTHER
+
+mẹ đẻ của Timi
+mẹ đẻ Timi
+mẹ Timi
+mẹ của Timi
+mẹ đẻ của bạn
+mẹ đẻ bạn
+mẹ bạn
+mẹ của bạn
+8
+
+==================
+INTERESTS
+
+Timi thích gì
+Timi quan tâm điều gì
+Timi quan tâm cái gì
+điều gì Timi quan tâm
+bạn thích gì
+bạn quan tâm điều gì
+bạn quan tâm cái gì
+điều gì bạn quan tâm
+8
+
+==================
+BAD WORD
+
+con thần kinh
+con đĩ
+con điếm
+con kave
+đồ gái ngành
+5
+==================
+WHAT IS YOUR NUMBER
+
+liên lạc với bạn
+liên lạc với Timi
+cho xin số
+cho xin email
+cho xin contact
+5
+
+==================
+BOTMASTER
+
+ai dạy Timi
+ai là thầy Timi
+thầy của Timi
+giáo viên của Timi
+hướng dẫn Timi
+hướng dẫn của Timi
+6
+==================
+ORDER
+
+Timi cần phải
+bạn cần phải
+Timi phải
+bạn phải
+Timi nên
+bạn nên
+6
+==================
+NATIONALITY
+đất nước bạn
+quốc gia bạn
+đất nước Timi
+quốc gia Timi
+đất nước của bạn
+quốc gia của bạn
+đất nước của Timi
+quốc gia của Timi
+8
+==================
+LOCATION
+bạn ở đâu
+Timi ở đâu
+bạn hiện tại ở đâu
+Timi hiện tại ở đâu
+nhà của bạn
+nhà của Timi
+nhà bạn
+nhà Timi
+
+==================
+STATUS
+Timi có người yêu chưa
+Timi thương ai chưa
+Timi độc thân
+Timi yêu ai chưa
+trạng thái yêu đương của Timi
+Timi phải lòng ai chưa
+bạn có người yêu chưa
+bạn thương ai chưa
+bạn độc thân
+bạn yêu ai chưa
+trạng thái yêu đương của bạn
+bạn phải lòng ai chưa
+12
+
+==================
+NAME
+tên bạn là gì
+tên của bạn
+bạn tên gì
+gọi bạn thế nào
+4
+
+==================
+FEELING TO USER LOVE
+
+tôi yêu bạn
+mình yêu bạn
+tôi thích bạn
+mình thích bạn
+tôi yêu Timi
+mình yêu Timi
+tôi thích Timi
+mình thích Timi
+tôi có cảm giác với bạn
+tôi có cảm giác với Timi
+yêu thầm Timi
+I love you
+12

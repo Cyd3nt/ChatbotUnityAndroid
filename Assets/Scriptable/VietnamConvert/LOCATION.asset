@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3fda34bbde291a54abb9c06148394d1d, type: 3}
-  m_Name: MOTHER
+  m_Name: LOCATION
   m_EditorClassIdentifier: 
   engKey:
-  - TIMI MOTHER
+  - LOCATION
   vietKey:
-  - "m\u1EB9 \u0111\u1EBB c\u1EE7a Timi"
-  - "m\u1EB9 \u0111\u1EBB Timi"
-  - "m\u1EB9 Timi"
-  - "m\u1EB9 c\u1EE7a Timi"
-  - "m\u1EB9 \u0111\u1EBB c\u1EE7a b\u1EA1n"
-  - "m\u1EB9 \u0111\u1EBB b\u1EA1n"
-  - "m\u1EB9 b\u1EA1n"
-  - "m\u1EB9 c\u1EE7a b\u1EA1n"
+  - "b\u1EA1n \u1EDF \u0111\xE2u"
+  - "Timi \u1EDF \u0111\xE2u"
+  - "b\u1EA1n hi\u1EC7n t\u1EA1i \u1EDF \u0111\xE2u"
+  - "Timi hi\u1EC7n t\u1EA1i \u1EDF \u0111\xE2u"
+  - "nh\xE0 c\u1EE7a b\u1EA1n"
+  - "nh\xE0 c\u1EE7a Timi"
+  - "nh\xE0 b\u1EA1n"
+  - "nh\xE0 Timi"
   attitude: 1
